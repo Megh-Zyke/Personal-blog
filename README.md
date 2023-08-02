@@ -50,3 +50,23 @@ There are a total of 5 views:
   - - - -
   
 ## *Pictures* ##
+
+#### Home Page ####
+![Home Page](https://github.com/Megh-Zyke/Personal-blog/blob/main/Pictures/Home%20Page.jpg)
+
+
+#### About Page ####
+![About Page](https://github.com/Megh-Zyke/Personal-blog/blob/main/Pictures/About%20Page.jpg)
+
+
+#### Compose Page ####
+![Compose Page](https://github.com/Megh-Zyke/Personal-blog/blob/main/Pictures/compose.jpg)
+
+#### Post Page ####
+![Post Page](https://github.com/Megh-Zyke/Personal-blog/blob/main/Pictures/Naruto.jpg)
+
+
+
+
+##### MongoDB Server #####
+![MongoDB Server](https://github.com/Megh-Zyke/Personal-blog/blob/main/Pictures/MongoDB.jpg)
